@@ -5,9 +5,9 @@ bl_info = {
     "blender": (2, 90, 0),
     "location": "Render > Spritesheet",
     "description": "Renders the selected frames from the timeline and generates a spritesheet with ImageMagick based on the timeline markers",
-    "warning": "",
-    "wiki_url": "",
-    "tracker_url": "",
+    "warning": "Requires ImageMagick",
+    "wiki_url": "https://github.com/mewters/blender-render-spritesheet",
+    "tracker_url": "https://github.com/mewters/blender-render-spritesheet",
     "category": "Render"
 }
 
