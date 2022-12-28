@@ -3,7 +3,7 @@ bl_info = {
     "author": "Mewters",
     "version": (1, 0),
     "blender": (2, 90, 0),
-    "location": "Render > Spritesheet",
+    "location": "Properties > Output > Mewters > Spritesheet",
     "description": "Renders the selected frames from the timeline and generates a spritesheet with ImageMagick based on the timeline markers",
     "warning": "Requires ImageMagick",
     "wiki_url": "https://github.com/mewters/blender-render-spritesheet",
